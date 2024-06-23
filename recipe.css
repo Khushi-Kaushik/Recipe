@@ -30,3 +30,13 @@ body{
     border-radius: 20%;
     padding: 10px;
   }
+  @media only screen and (max-width: 600px){
+    body{
+    background-color: rgb(206, 200, 142);
+  }
+}
+@media only screen and (min-width: 992px){
+    body{
+        background-color: rgb(206, 200, 142);
+    }
+}
